@@ -19,37 +19,43 @@ MEDUSA AI offers several modules to assist with various aspects of medical diagn
 
 Upload medical images and receive detailed analyses. The tool supports multiple image formats (JPG, JPEG, PNG).
 
-![Medical Imaging Diagnostics]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(158).png)
+![Medical Imaging Diagnostics]
+![Screenshot (158)](https://github.com/user-attachments/assets/b3a422f8-b742-4472-8e9c-1fa96686e63a)
 
 ### 2. Medical Transcription
 
 Upload prescription images and get them transcribed into a structured, tabular format.
 
-![Medical Transcription]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(160).png)
+![Medical Transcription]
+![Screenshot (160)](https://github.com/user-attachments/assets/52dccc90-b73b-4216-a453-2125de3c0b61)
 
 ### 3. Medical Pathology Diagnostics
 
 Analyze medical reports to generate comprehensive pathology reports.
 
-![Medical Pathology Diagnostics]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(161).png)
+![Medical Pathology Diagnostics]
+![Screenshot (161)](https://github.com/user-attachments/assets/779fd0a5-00f9-43ea-9679-a9f88e358179)
 
 ### 4. Medical Coding
 
 Upload medical documents and get suggested ICD medical codes with descriptions.
 
-![Medical Coding]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(162).png)
+![Medical Coding]
+![Screenshot (162)](https://github.com/user-attachments/assets/3875d7fa-3913-4848-9105-d5ae28791810)
 
 ### 5. Insurance Risk Analysis
 
 Upload user data images and calculate insurance risk percentages with detailed justifications.
 
-![Insurance Risk Analysis]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(163).png)
+![Insurance Risk Analysis]
+![Screenshot (163)](https://github.com/user-attachments/assets/635d753f-e61d-4d3c-872a-e5cbb9464b26)
 
 ### 6. Treatment and Diet Plan Generator
 
 Generate personalized treatment and diet plans based on patient data.
 
-![Treatment and Diet Plan Generator]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(164).png)
+![Treatment and Diet Plan Generator]
+![Screenshot (164)](https://github.com/user-attachments/assets/2b463f49-6609-4d3f-8f48-98e6c48a7834)
 
 ## Installation and Setup
 
