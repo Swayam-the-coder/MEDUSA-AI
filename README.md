@@ -72,7 +72,7 @@ Generate personalized treatment and diet plans based on patient data.
 
 4. **Run the application:**
     ```sh
-    streamlit run app.py
+    streamlit run MEDUSA_AI.py
     ```
 
 ## Usage
