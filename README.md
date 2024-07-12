@@ -126,7 +126,7 @@ Select the desired module from the navigation menu at the top of the page.
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/your-repo/medusa-ai/issues).
+If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/swayam-the-coder/medusa-ai/issues).
 
 ## License
 
