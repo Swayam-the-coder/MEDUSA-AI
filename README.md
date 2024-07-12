@@ -19,37 +19,37 @@ MEDUSA AI offers several modules to assist with various aspects of medical diagn
 
 Upload medical images and receive detailed analyses. The tool supports multiple image formats (JPG, JPEG, PNG).
 
-![Medical Imaging Diagnostics](C:/Users/Admin/Pictures/Screenshots/Screenshot(158).png)
+![Medical Imaging Diagnostics]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(158).png)
 
 ### 2. Medical Transcription
 
 Upload prescription images and get them transcribed into a structured, tabular format.
 
-![Medical Transcription](C:/Users/Admin/Pictures/Screenshots/Screenshot(160).png)
+![Medical Transcription]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(160).png)
 
 ### 3. Medical Pathology Diagnostics
 
 Analyze medical reports to generate comprehensive pathology reports.
 
-![Medical Pathology Diagnostics](C:/Users/Admin/Pictures/Screenshots/Screenshot(161).png)
+![Medical Pathology Diagnostics]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(161).png)
 
 ### 4. Medical Coding
 
 Upload medical documents and get suggested ICD medical codes with descriptions.
 
-![Medical Coding](C:/Users/Admin/Pictures/Screenshots/Screenshot(162).png)
+![Medical Coding]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(162).png)
 
 ### 5. Insurance Risk Analysis
 
 Upload user data images and calculate insurance risk percentages with detailed justifications.
 
-![Insurance Risk Analysis](C:/Users/Admin/Pictures/Screenshots/Screenshot(163).png)
+![Insurance Risk Analysis]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(163).png)
 
 ### 6. Treatment and Diet Plan Generator
 
 Generate personalized treatment and diet plans based on patient data.
 
-![Treatment and Diet Plan Generator](C:/Users/Admin/Pictures/Screenshots/Screenshot(164).png)
+![Treatment and Diet Plan Generator]![alt text](C:/Users/Admin/Pictures/Screenshots/Screenshot(164).png)
 
 ## Installation and Setup
 
