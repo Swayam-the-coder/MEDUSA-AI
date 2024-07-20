@@ -117,7 +117,7 @@ def load_model():
         st.error("Google API Key not found in .env file.")
         st.stop()
     genai.configure(api_key=api_key)
-    return genai.GenerativeModel('gemini-pro-vision')
+    return genai.GenerativeModel('gemini-1.5-flash')
 
 # Function to analyze image
 def analyze_image(image, prompt):
